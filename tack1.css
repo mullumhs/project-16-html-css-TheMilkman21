@@ -1,10 +1,10 @@
 h1 {
   color: blueviolet;
   background-color: cyan;
-  border-radius: 8px;
   padding: 20px;
-  border-bottom: 10px;
+  border-bottom: 10px solid black;
   font-family: "Sixtyfour Convergence", Helvetica, sans-serif;
+  text-shadow: 100px saddlebrown;
 }
 
 nav {
@@ -18,4 +18,8 @@ tr {
 
 p {
   font-family: "Playwrite GB S";
+}
+
+body {
+  background-color: gray;
 }
